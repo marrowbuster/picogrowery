@@ -1,0 +1,7 @@
+build
+!.vscode/*
+*.elf
+*.uf2
+*.map
+*.bin
+*.json
