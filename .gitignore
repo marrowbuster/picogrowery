@@ -1,3 +1,4 @@
+# pi pico build files
 build
 !.vscode/*
 *.elf
@@ -5,3 +6,10 @@ build
 *.map
 *.bin
 *.json
+
+# zephyr project
+.west
+bootloader
+modules
+tools
+zephyr
