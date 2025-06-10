@@ -6,10 +6,3 @@ build
 *.map
 *.bin
 *.json
-
-# zephyr project
-.west
-bootloader
-modules
-tools
-zephyr

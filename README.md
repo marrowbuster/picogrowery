@@ -6,3 +6,5 @@ TODO:
 - set this thing up with freertos
 - pop a cr2032 into the rtc
 - draw a diagram
+
+PROJECT ON HIATUS; there are issues with Zephyr's Pi Pico 2 compatibility that must be ironed out.
